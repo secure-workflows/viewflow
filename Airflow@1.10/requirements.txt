@@ -17,7 +17,7 @@ colorama==0.4.4; sys_platform == "win32" or python_version >= "3.6"
 colorlog==4.0.2
 configparser==3.5.3
 croniter==0.3.37
-cryptography==3.4.6; python_version >= "3.0"
+cryptography==50.0.0; python_version >= "3.0"
 decorator==4.4.2
 dill==0.3.3
 dnspython==2.1.0
