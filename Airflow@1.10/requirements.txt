@@ -94,7 +94,7 @@ thrift==0.13.0
 typing-extensions==3.7.4.3
 tzlocal==1.5.1
 unicodecsv==0.14.1
-urllib3==1.25.11
+urllib3==2.8.0
 werkzeug==0.16.1
 wtforms==2.3.3
 zipp==3.4.1; python_version < "3.8" or python_version >= "3.6" and python_version < "3.8"
